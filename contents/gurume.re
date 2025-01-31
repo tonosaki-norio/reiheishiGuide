@@ -217,7 +217,7 @@
 
 //}
 
-//sideimage[tsubuan][40mm][side=R,sep=7mm]{
+//sideimage[tsubuan][33mm][side=R,sep=7mm]{
 //noindent
 @<B>{冷やし大福珈琲クリームつぶあん}
 
@@ -227,7 +227,7 @@
 
 //}
 
-//sideimage[misoman][40mm][side=R,sep=7mm]{
+//sideimage[misoman][33mm][side=R,sep=7mm]{
 //noindent
 @<B>{佐野名物 味噌まんじゅう}
 
@@ -237,7 +237,7 @@
 
 //}	
 
-//sideimage[misopurin][40mm][side=R,sep=7mm]{
+//sideimage[misopurin][33mm][side=R,sep=7mm]{
 //noindent
 @<B>{味噌ぷりん}
 
@@ -248,7 +248,7 @@
 //}	
 
 
-//sideimage[chikaramochi][40mm][side=R,sep=7mm]{
+//sideimage[chikaramochi][33mm][side=R,sep=7mm]{
 //noindent
 @<B>{貞光の　力もち　}
 
@@ -258,7 +258,7 @@
 
 //}	
 
-//sideimage[kawagishi][40mm][side=R,sep=7mm]{
+//sideimage[kawagishi][33mm][side=R,sep=7mm]{
 //noindent
 @<B>{河岸最中}
 
@@ -268,7 +268,7 @@
 
 //}	
 
-//sideimage[tenmeimonaka][40mm][side=R,sep=4mm]{
+//sideimage[tenmeimonaka][33mm][side=R,sep=4mm]{
 //noindent
 @<B>{佐野名物　天明最中}
 

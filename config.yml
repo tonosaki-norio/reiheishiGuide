@@ -325,7 +325,7 @@ texdocumentclass: ["jsbook",
     #"dvipdfmx,uplatex,papersize,twoside,openright" # 右起こし
     #"dvipdfmx,uplatex,papersize,twoside,openany"   # 両起こし
     #"dvipdfmx,uplatex,papersize,oneside,openany"   # 両起こし（タブレット向け）
-    "dvipdfmx,uplatex,papersize,twoside,openany"
+    "dvipdfmx,uplatex,papersize,twoside,openany,hiddenfolio=nikko-pc"
 ]
 #
 # LaTeX用のコマンドを指定する
